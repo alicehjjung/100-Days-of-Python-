@@ -1,5 +1,5 @@
 # Day41 - Web Foundation - Introduction to HTML
-## Day41 Project : [My Website]()
+## Day41 Project : [My Website]("index.html")
  : Publishing my website using html.
 ## Tags I used to build this website
   1. Heading tags   
