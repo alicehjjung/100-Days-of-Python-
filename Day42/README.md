@@ -1,4 +1,4 @@
-# Day42 - Web Foundation - Intermediate HTMl
+# Day42 - Web Foundation - Intermediate HTML
 ## Day42 Project : [My Website](index.html)
  : Added tables and forms to my website   
  <img src="myWebsite2.gif" width="450" height="auto">
