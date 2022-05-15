@@ -11,7 +11,7 @@
             \<td\>$100\</td\>   
         \</tr\>   
       \</table\>    
-  2. Form element + Input Types + textarea
+  2. Form element + Input Types + textarea<br>
     ex)<Br> 
      \<form\><br>
           \<label\>Your Name:\</label\><br>
