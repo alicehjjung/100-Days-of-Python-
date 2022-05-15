@@ -1,7 +1,7 @@
 # Day41 - Web Foundation - Introduction to HTML
 ## Day41 Project : [My Website](index.html)
  : Publishing my website using html.
- <img src="myWebsite.gif">
+ <img src="myWebsite.gif" width="200" height="300">
 ## Tags I used to build this website
   1. Heading tags   
     : \<h1\>, \<h2\>, \<h3\> ...    
