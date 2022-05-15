@@ -11,6 +11,7 @@
         \</tr\>   
       \</table\>    
   2. Form element + Input Types + textarea
+    ex)<Br> 
      \<form\><br>
           \<label\>Your Name:\</label\><br>
           \<input type="text" name="yourName" value=""\><br>     
@@ -22,7 +23,7 @@
           \<textarea name="yourMessage" rows="10" cols="80"\></textarea><br>
     \</form\>   
   3. Form Atributes
-    : \<form action="mailto:email@gmail.com" method="post" enctype="text/plain"\>
-    -action : Defines the action to be performed when the form is submitted.
-    -method : Specifies the HTTP method to be used when submitting the form data.
-    -enctype : Specifies how the form-data should be encoded when submitting it to the server (only for method="post")
+    : \<form action="mailto:email@gmail.com" method="post" enctype="text/plain"\><br>
+    -action : Defines the action to be performed when the form is submitted<br>
+    -method : Specifies the HTTP method to be used when submitting the form data<br>
+    -enctype : Specifies how the form-data should be encoded when submitting it to the server (only for method="post")<br>
