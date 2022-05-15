@@ -4,7 +4,8 @@
  <img src="" width="450" height="auto">
 ## Tags I used to build this website
   1. Table tag   
-    : \<table\>   
+    ex)<br>
+      \<table\>   
         \<tr\>   
             \<td\>January\</td\>   
             \<td\>$100\</td\>   
@@ -14,7 +15,7 @@
     ex)<Br> 
      \<form\><br>
           \<label\>Your Name:\</label\><br>
-          \<input type="text" name="yourName" value=""\><br>     
+          \<input type="text" name="yourName" value=""\><br>
           \<input type="email" name="yourEmail" value=""\><br>
           \<input type="date" name="" value=""\><br>
           \<input type="submit" name="" value="submit"\><br>
