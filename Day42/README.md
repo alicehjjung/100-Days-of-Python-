@@ -1,8 +1,8 @@
-# Day41 - Web Foundation - Intermediate HTMl
-## Day41 Project : [My Website](index.html)
+# Day42 - Web Foundation - Intermediate HTMl
+## Day42 Project : [My Website](index.html)
  : Added tables and forms to my website   
  <img src="myWebsite2.gif" width="450" height="auto">
-## Tags I used to build this website
+## What I used to build this website
   1. Table tag   
     ex)<br>
       \<table\>   
