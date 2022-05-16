@@ -1,6 +1,6 @@
 # Day43 - Web Foundation - Introduction to CSS
-## Day42 Project : [CSS Practice](index.html)
- : Added tables and forms to my website   
+## Day43 Project : [CSS Practice](index.html)
+ : Styled website with CSS 
  <img src="css.gif" width="450" height="auto">
 ## What I studied to build this website
   1. External CSS, Internal CSS, Inline CSS
