@@ -1,6 +1,6 @@
 # Day43 - Web Foundation - Introduction to CSS
 ## Day43 Project : [CSS Practice](index.html)
- : Styled website with CSS 
+ : Styled website with CSS   
  <img src="css.gif" width="450" height="auto">
 ## What I studied to build this website
   1. External CSS, Internal CSS, Inline CSS
