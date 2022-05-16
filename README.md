@@ -13,6 +13,7 @@
 ## Intermediate+
 [Day41 - Web Foundation - Introduction to HTML](https://github.com/alicehjjung/TIL-100-Days-of-Python/tree/main/Day41)   
 [Day42 - Web Foundation - Intermediate HTML](https://github.com/alicehjjung/TIL-100-Days-of-Python/tree/main/Day42)
+[Day43 - Web Foundation - Introduction to CSS](https://github.com/alicehjjung/TIL-100-Days-of-Python/tree/main/Day42)
 ## Advanced
 
 ## Professional
