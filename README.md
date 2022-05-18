@@ -15,5 +15,7 @@
 [Day42 - Web Foundation - Intermediate HTML](https://github.com/alicehjjung/TIL-100-Days-of-Python/tree/main/Day42)   
 [Day43 - Web Foundation - Introduction to CSS](https://github.com/alicehjjung/TIL-100-Days-of-Python/tree/main/Day43)   
 ## Advanced
+[Day71 - Advanced - Data Exploration with Pandas: College Major v.s. Your Salary](https://github.com/alicehjjung/TIL-100-Days-of-Python/tree/main/Day71)   
+[Day72 - Advanced - Data Visualisation with Matplotlib: Programming Languages](https://github.com/alicehjjung/TIL-100-Days-of-Python/tree/main/Day72)   
 
 ## Professional
